@@ -3,7 +3,6 @@ To make the next steps easier to follow, we minimized our previous the E-R model
 ![k5Q8vgL.png](https://i.imgur.com/k5Q8vgL.png)
 
 Based on the new (minimized) E-R model and our Spotify Album, we tabulate the data:
-
 | album_name | album_year | artist_name     | artist_genre | song_name                             | song_duration |
 |------------|------------|-----------------|--------------|---------------------------------------|---------------|
 | Palm Beach | 2019       | Kanye West      | Rap, Hip Hop | Stronger, Heartless                   | 05:12, 3:12   |
