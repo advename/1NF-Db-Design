@@ -135,22 +135,3 @@ That means the relationships between the newly introduced tables need to be dete
 | You Rock My World         | 05:38  | 9 |
 
 Instead of one table in unnormalized form, there are now 5 tables conforming to the 1NF. 
-
-|  8  |  55   |
-|   8  |   56  |
-|   9  |   57  |
-|  9   |   58  |
-
-**Song table**
-
- | song_name                 | song_duration | artist_id |
-|---------------------------|---------------|-----|
- | Stronger                  | 05:12         | 7 |
-  | Heartless                 | 03:12         | 7 |
- | God's plan                | 03:19         | 8 |
- | Hold On, We're Going Home | 03:48         | 8 |
-  | P.Y.T                     | 03:59         | 9 |
-| You Rock My World         | 05:38  | 9 |
-
-Instead of one table in unnormalized form, there are now 5 tables conforming to the 1NF. 
-
