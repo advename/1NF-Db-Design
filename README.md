@@ -30,11 +30,11 @@ After restructuring the table, every field contains a single value and each row 
 > E.g. What if i duplicate the first row and change the *album_name* from Palm Beach to Flower Power? 
 > 
 > |  album_name | album_year | artist_name     | artist_genre_1 | artist_genre_2 | song_name_1 | song_duration_1 | song_name_2               | song_duration_2 |
-|------------|------------|-----------------|----------------|----------------|-------------|-----------------|---------------------------|-----------------|
-|  Palm Beach | 2019       | Kanye West      | Rap            | Hip Hop        | Stronger    | 05:12           | Heartless                 | 03:12           |
-|Palm Beach | 2019       | Drake           | Rap            | Hip Hop        | God's plan  | 03:19           | Hold On, We're Going Home | 03:48           |
-|  Palm Beach | 2019       | Micheal Jackson | Pop            | Funk           | P.Y.T       | 03:59           | You Rock My World         | 05:38           |
-|Flower Power | 2019       | Drake           | Rap            | Hip Hop        | God's plan  | 03:19           | Hold On, We're Going Home | 03:48           |
+>|------------|------------|-----------------|----------------|----------------|-------------|-----------------|---------------------------|-----------------|
+>|  Palm Beach | 2019       | Kanye West      | Rap            | Hip Hop        | Stronger    | 05:12           | Heartless                 | 03:12           |
+>|Palm Beach | 2019       | Drake           | Rap            | Hip Hop        | God's plan  | 03:19           | Hold On, We're Going Home | 03:48           |
+>|  Palm Beach | 2019       | Micheal Jackson | Pop            | Funk           | P.Y.T       | 03:59           | You Rock My World         | 05:38           |
+>|Flower Power | 2019       | Drake           | Rap            | Hip Hop        | God's plan  | 03:19           | Hold On, We're Going Home | 03:48           |
 >
 > - *album_name* as the unique identifier would not suffice
 > - *artist_name* as the unique identifier would not suffice
